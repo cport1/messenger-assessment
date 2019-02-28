@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "firstName": "Jenny",
+    "lastName": "Dillon"
+  },
+  "messages": {
+    "Group": [
+      {
+        "Contacts": [
+          {"name": "Dan"},
+          {"name": "Jeff"},
+          {"name": "Mark"}
+        ],
+        "messages": [
+          {
+            "message": "Hey",
+            "timeStamp": 234
+          }
+        ]
+      }
+    ],
+    "Direct": [
+      {
+        "Contact": "Taurus",
+        "messages": ""
+      }
+    ]
+  }
+}
