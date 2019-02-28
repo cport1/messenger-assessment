@@ -1,12 +1,13 @@
 {
   "profile": {
     "firstName": "Jenny",
-    "lastName": "Dillon"
+    "lastName": "Dillon",
+    "profileImg": "profile-pic.png"
   },
   "messages": {
-    "Group": [
+    "group": [
       {
-        "Contacts": [
+        "contacts": [
           {"name": "Dan"},
           {"name": "Jeff"},
           {"name": "Mark"}
@@ -14,15 +15,66 @@
         "messages": [
           {
             "message": "Hey",
-            "timeStamp": 234
+            "timeStamp": 1551282069086
+          },
+          {
+            "message": "Where Should we meet?",
+            "timeStamp": 1551282069100
           }
         ]
       }
     ],
-    "Direct": [
+    "direct": [
       {
-        "Contact": "Taurus",
-        "messages": ""
+        "contact": "Sherry",
+        "messages": [
+          {
+           "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
+           "timeStamp": 1550010759849
+          },
+          {
+            "message": "Where are you?",
+            "timeStamp": 1550010759849
+           },
+           {
+            "message": "Hey!",
+            "timeStamp": 1550010759849
+           }
+        ]
+      },
+      {
+        "contact": "Dale",
+        "messages": [
+          {
+           "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque",
+           "timeStamp": 1550189639229
+          },
+          {
+            "message": "Where are you?",
+            "timeStamp": 1550856419694
+           },
+           {
+            "message": "Hey!",
+            "timeStamp": 1550856419694
+           }
+        ]
+      },
+      {
+        "contact": "Chip",
+        "messages": [
+          {
+           "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
+           "timeStamp": 1550522122368
+          },
+          {
+            "message": "Where are you?",
+            "timeStamp": 1551371669861
+           },
+           {
+            "message": "Hey!",
+            "timeStamp": 1551371669861
+           }
+        ]
       }
     ]
   }
